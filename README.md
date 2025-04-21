@@ -1,1 +1,0 @@
-# solana-copy-bot
