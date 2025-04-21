@@ -1,0 +1,6 @@
+python-telegram-bot
+solana
+requests
+aiohttp
+flask
+python-dotenv
